@@ -1,72 +1,46 @@
-                          
-<br>
+# 👋 Hi there, I'm 정명진! <img src ="https://github.com/images/mona-whisper.gif" width="62" height="62"/>
 
-<!--타이틀 부분-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0040FF&width=435&lines=Hi%2C+I'm+정명진!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/c-3578E5.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/c-sharp-1daabb.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-</div>
+![Banner](banner.jpg)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/mysql-11557c.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-</div>
+<p>Welcome to my page! </br> I'm 정명진, Student from Dongyang Mirae Univ. <img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="100"/> <b>Seoul, Korea</b>, currently living in <img src="https://user-images.githubusercontent.com/70050528/189471349-b61089ef-38fa-4c0a-acd5-776f094f0809.png" width="20"/> <b>Seoul, Korea</b>. </p>
 
-<div align="center">
-   <img src="https://img.shields.io/badge/mac-OS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />&nbsp
+---
 
-</div>
+## 🔧 Tools & Technologies
+![VS Code](https://img.shields.io/badge/VSCode-Preferred-lightblue?style=for-the-badge&logo=visual-studio-code)
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-Intermediate-orange?style=for-the-badge&logo=jupyter)
 
-<br>
+---
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/chatbot-007ACC.svg?style=for-the-badge&logo=chatbot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/androidstudio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/unity-2C2C32.svg?style=for-the-badge&logo=unity&logoColor=white" />&nbsp
-</div>
+## 🚀 Featured Projects
+- [**Dongyang Mirae**](https://github.com/Wamong/DMU-JMJ) : Things I learned in college.
+- [**Open Source Software assignment**](https://github.com/Awant1234/OSS) : Open source software project with the Why-Group team.
 
-<br>
+---
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Wamong&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wamong&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/google%20colab-F9AB00?style=for-the-badge&logo=google%20colab&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
+<!-- [![GitHub Contributions Chart](https://github-contributions-chart.vercel.app/api?username=Wamong)](https://github.com/sallar/github-contributions-chart) -->
 
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/pycharm-2C2C32.svg?style=for-the-badge&logo=pycharm&logoColor=22ABF3" />&nbsp
-</div>
+![Visitor Count](https://komarev.com/ghpvc/?username=Wamong&style=flat-square&color=blue)
 
-<br>
+---
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://www.instagram.com/wa._.mong">
-    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
-  </a>
-  <a href="mailto:abcd675@naver.com">
-    <img src="https://img.shields.io/badge/youmin0321@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
-  </a>
-</div>
+## 🌱 About Me
+- 🌍 I'm passionate about exploring the intersection of technology and creativity.
+- 🎵 I enjoy listening to Rock & POP.
+- ✈️ Love traveling and capturing moments.
 
-<br> 
+---
 
+## 📫 Contact Me
+- Github : [Wamong](https://github.com/Wamong/)
+- Email : [abcd675@naver.com](abcd675@naver.com)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wamong)](https://github.com/anuraghazra/github-readme-stats)
-[![wamong's GitHub stats](https://github-readme-stats.vercel.app/api?username=wamong)](https://github.com/anuraghazra/github-readme-stats)
+---  
+  
+<img src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=790b76114go40g6180qwmjpwseliz144sboff6b8bi99ze2d&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="350" />
