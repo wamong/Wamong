@@ -43,4 +43,4 @@
 
 ---  
   
-<img src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=790b76114go40g6180qwmjpwseliz144sboff6b8bi99ze2d&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="350" />
+<img src="ditto.gif" width="350" />
