@@ -32,8 +32,8 @@
 
 ## 🌱 About Me
 - 🌍 I'm passionate about exploring the intersection of technology and creativity.
-- 🎵 I enjoy listening to Rock & POP.
-- ✈️ Love traveling and capturing moments.
+- 🎵 I enjoy listening to Rock & Ballad.
+- 🎮 I like playing games that allow me to experience various things.
 
 ---
 
